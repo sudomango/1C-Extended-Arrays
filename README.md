@@ -24,7 +24,7 @@ $number_array = [1, 4, -10, 20, 100]; // Создание массива в яз
 
 * Все функции в виде единого OneScript-файла с примерами использования (лежит в [корне репозитория](https://github.com/sudomango/1C-Extended-Arrays/tree/main/arrays_extended_functions.os)).
 
-* А также в виде файла шаблонов текста для платформы "1С: Предприятие" (в каталоге [text_templates_1c](https://github.com/sudomango/1C-Extended-Arrays/tree/main/text_templates_1c)).
+* В виде файла шаблонов текста для платформы "1С:Предприятие 8.3" (в каталоге [text_templates_1c](https://github.com/sudomango/1C-Extended-Arrays/tree/main/text_templates_1c)).
 
 OneScript-файлы запускаются командой (при условии, что у вас установлен интерпретатор):
 
@@ -38,7 +38,7 @@ oscript имя_скрипта.os
 
 # Небольшое примечание
 
-Если у вас нет желания скачивать репозиторий и устанавливать OneScript, результат работы файла с примерами был для удобства добавлен в виде текстового файла [console_output.txt](https://github.com/sudomango/1C-Extended-Arrays/blob/main/console_output.txt).
+Если у вас нет желания скачивать репозиторий и устанавливать OneScript, результат работы файла с примерами был для удобства представлен в виде текстового файла [console_output.txt](https://github.com/sudomango/1C-Extended-Arrays/blob/main/console_output.txt).
 
 Пример исходного кода (редактор Visual Studio Code):
 
