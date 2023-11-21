@@ -14,7 +14,7 @@ $number_array = [1, 4, -10, 20, 100]; // Создание массива в яз
 
 ## Какие новые функции были реализованы
 
-Полный список новых функций можно посмотреть в отдельном [readme-файле](https://github.com/sudomango/1C-Extended-Arrays/blob/main/new_functions_readme.md) или прямо [в исходном коде](https://github.com/sudomango/1C-Extended-Arrays/blob/main/oscript_functions/arrays_extended_functions.os).
+Полный список новых функций можно посмотреть в отдельном [readme-файле](https://github.com/sudomango/1C-Extended-Arrays/blob/main/new_functions_readme.md) или прямо [в исходном коде](https://github.com/sudomango/1C-Extended-Arrays/blob/main/arrays_extended_functions.os).
 
 # Установка и запуск
 
@@ -22,9 +22,9 @@ $number_array = [1, 4, -10, 20, 100]; // Создание массива в яз
 
 Далее всё зависит от того, как вы собираетесь использовать эти функции. Есть три варианта:
 
-* В виде отдельных автономных OneScript-файлов (лежат в [корне репозитория](https://github.com/sudomango/1C-Extended-Arrays/tree/main)).
+* В виде отдельных автономных OneScript-файлов (в каталоге [oscript_functions](https://github.com/sudomango/1C-Extended-Arrays/tree/main/oscript_functions)).
 
-* Все функции в виде единого OneScript-файла с примерами использования (в каталоге [oscript_functions](https://github.com/sudomango/1C-Extended-Arrays/tree/main/oscript_functions)).
+* Все функции в виде единого OneScript-файла с примерами использования (лежит в [корне репозитория](https://github.com/sudomango/1C-Extended-Arrays/tree/main/arrays_extended_functions.os)).
 
 * А также в виде файла шаблонов текста для платформы "1С: Предприятие" (в каталоге [text_templates_1c](https://github.com/sudomango/1C-Extended-Arrays/tree/main/text_templates_1c)).
 
@@ -40,7 +40,7 @@ oscript имя_скрипта.os
 
 ## Небольшое примечание
 
-Если у вас нет желания скачивать репозиторий и устанавливать OneScript, результат работы файла с примерами был для удобства добавлен в виде текстового файла [console_output.txt](https://github.com/sudomango/1C-Extended-Arrays/blob/main/oscript_functions/console_output.txt).
+Если у вас нет желания скачивать репозиторий и устанавливать OneScript, результат работы файла с примерами был для удобства добавлен в виде текстового файла [console_output.txt](https://github.com/sudomango/1C-Extended-Arrays/blob/main/console_output.txt).
 
 Пример исходного кода (редактор Visual Studio Code):
 
